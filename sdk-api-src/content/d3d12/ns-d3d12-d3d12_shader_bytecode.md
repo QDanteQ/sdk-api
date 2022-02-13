@@ -70,7 +70,7 @@ When loading a shader from FXC/DXC, this may be the entire compiled blob as is l
 
 ## -see-also
 
-<a href="/windows/desktop/direct3d12/commandlistcast">CD3DX12_SHADER_BYTECODE</a>
+<a href="https://docs.microsoft.com/en-us/windows/win32/direct3d12/cd3dx12-shader-bytecode">CD3DX12_SHADER_BYTECODE</a>
 
 
 
